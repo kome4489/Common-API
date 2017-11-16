@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "postgres",     
+    "password": "admin",
+    "database": "CommonApi",
+    "port": 5432,
+    "ssl": false
+}
